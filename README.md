@@ -1,2 +1,2 @@
 # qunar
-技术栈：html+css+html5+css3+jquery
+模仿“去哪儿网”做的一次小项目
